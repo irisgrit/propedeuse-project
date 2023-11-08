@@ -84,7 +84,7 @@ p {
 }
 
 .beschrijving {
-    background-image: url(fotos/beschrijving-achtergrond.png);
+    background-image: url(fotos/achtergrond-beschrijving-.png);
     background-position: center;
     width:contain; 
     height: 18rem;
@@ -109,6 +109,7 @@ p {
 .foto img{  
     border-radius: 20px;
     padding: 0.5rem;
+    box-shadow: 2;
 }
 
 /* start jou minibieb */
