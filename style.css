@@ -113,14 +113,11 @@ p {
 
 /* start jou minibieb */
 
-.bouw li ,h4 {
-    margin-left: 2rem;
-    margin-right: 2rem;
+.bouw {
+   padding: 1.5rem ;
 }
 
-.bouw {
-    margin-bottom: 1.5rem;
-}
+
 /* locaties */
 
 .minibiebs-in-Amsterdam li {
